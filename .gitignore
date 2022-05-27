@@ -1,0 +1,11 @@
+
+# Intellij idea
+.idea
+
+# Node
+/node_modules
+/build
+.env
+
+# Configuration file (not recommended for production)
+storj-backups.json
