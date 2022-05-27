@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/blacknet-software/storj-backups.git"
   },
-  "author": "Juan Manuel Lozano Panadero",
+  "author": "Blacknet Software",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/blacknet-software/storj-backups/issues"
